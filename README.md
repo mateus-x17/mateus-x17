@@ -28,23 +28,21 @@
 ![pandas](https://img.shields.io/badge/-pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebarsjs-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
-![sequelize](https://img.shields.io/badge/-sequelize-0D1117?style=for-the-badge&logo=sequelize&labelColor=0D1117)&nbsp;
 ![jsonwebtokens](https://img.shields.io/badge/-jsonwebtokens-0D1117?style=for-the-badge&logo=jsonwebtokens&labelColor=0D1117)&nbsp;
-
+![Handlebars](https://img.shields.io/badge/-handlebarsjs-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
 
   
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=OpenJDK&logoColor=744e3b)
 
+
 <div style="color: ffff; text-align: left;">
   <h2>About Me</h2>
   <p>🚀 Criando e integrando APIs com JavaScript, Node.js e Express</p>
-  <p>📌 Experiência em autenticação JWT, bancos de dados (MongoDB, Prisma, Mongoose, SQL) e ORMs</p>
+  <p>📌 Experiência em autenticação JWT, bancos de dados, SQL e ORMs</p>
   <p> 💡  Explorando boas práticas no desenvolvimento fullstack</p>
   <p>🎓 Cursando Análise e Desenvolvimento de Sistemas, sempre evoluindo na engenharia de software</p>
 </div>
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d20f7&height=120&section=footer"/>
