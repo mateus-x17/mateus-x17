@@ -8,7 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateus-x17&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Inácio github stats"/>--> <!-- estatisticas sobre o githHUb -->
  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-x17&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />-->
  <!-- estatisticas sobre linguagens usadas 
-</div> -->
+</div> 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateus-x17&bg_color=000000&color=5d20f7&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 <!-- garfico de contribuições -->
@@ -22,6 +22,7 @@
  
  
 ### Other Knowledge:
+![express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![NextJs](https://img.shields.io/badge/-nextJs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=blue&labelColor=0D1117)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -32,7 +33,9 @@
 
   
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=OpenJDK&logoColor=744e3b)
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d20f7&height=120&section=footer"/>
