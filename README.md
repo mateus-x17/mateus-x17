@@ -37,6 +37,13 @@
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=OpenJDK&logoColor=744e3b)
 
+<div style="color: ffffff;">
+  <h3>About Me</h3>
+  <p>🚀 Criando e integrando APIs com JavaScript, Node.js e Express</p>
+  <p>📌 Experiência em autenticação JWT, bancos de dados (MongoDB, Prisma, Mongoose, SQL) e ORMs</p>
+  <p>💡 Explorando boas práticas no desenvolvimento fullstack</p>
+  <p>🎓 Cursando Análise e Desenvolvimento de Sistemas, sempre evoluindo na engenharia de software</p>
+</div>
 
 
 
