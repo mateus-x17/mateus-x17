@@ -30,6 +30,8 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-handlebarsjs-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
 ![sequelize](https://img.shields.io/badge/-sequelize-0D1117?style=for-the-badge&logo=sequelize&labelColor=0D1117)&nbsp;
+![jsonwebtokens](https://img.shields.io/badge/-jsonwebtokens-0D1117?style=for-the-badge&logo=jsonwebtokens&labelColor=0D1117)&nbsp;
+
 
   
 ### Studying in this moment:
