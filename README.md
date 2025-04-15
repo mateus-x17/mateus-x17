@@ -34,7 +34,7 @@
   
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=OpenJDK&logoColor=744e3b)
-
+![typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
 
 <div style="color: ffff; text-align: left;">
   <h2>About Me</h2>
