@@ -42,6 +42,9 @@
   <p>📌 Experiência em autenticação JWT, bancos de dados, SQL e ORMs</p>
   <p> 💡  Explorando boas práticas no desenvolvimento fullstack</p>
   <p>🎓 Cursando Análise e Desenvolvimento de Sistemas, sempre evoluindo na engenharia de software</p>
+  <p>LinkedIn: <a href="www.linkedin.com/in/
+mateus-inácio-460520360
+"> clique aqui :) </a></p>
 </div>
 
 
