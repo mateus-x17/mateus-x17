@@ -36,15 +36,13 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=OpenJDK&logoColor=744e3b)
 ![typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
 
-<div style="color: ffff; text-align: left;">
+<div style="color: #ffffff; text-align: left;">
   <h2>About Me</h2>
   <p>🚀 Criando e integrando APIs com JavaScript, Node.js e Express</p>
   <p>📌 Experiência em autenticação JWT, bancos de dados, SQL e ORMs</p>
-  <p> 💡  Explorando boas práticas no desenvolvimento fullstack</p>
+  <p>💡 Explorando boas práticas no desenvolvimento fullstack</p>
   <p>🎓 Cursando Análise e Desenvolvimento de Sistemas, sempre evoluindo na engenharia de software</p>
-  <p>LinkedIn: <a href="[www.linkedin.com/in/
-mateus-inácio-460520360](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-" target="_blank"> clique aqui :) </a></p>
+  <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/mateus-inácio-460520360" target="_blank" style="color: #ffffff;">clique aqui :)</a></p>
 </div>
 
 
