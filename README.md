@@ -44,7 +44,7 @@
   <p>🎓 Cursando Análise e Desenvolvimento de Sistemas, sempre evoluindo na engenharia de software</p>
   <p>LinkedIn: <a href="www.linkedin.com/in/
 mateus-inácio-460520360
-"> clique aqui :) </a></p>
+" target="_blank"> clique aqui :) </a></p>
 </div>
 
 
